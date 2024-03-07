@@ -24,7 +24,7 @@ This is a curated repository of materials for deep learning.
 
 ## <a name='Tutorials'></a>Tutorials
 - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
-- [GPT in 6 lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
+- [GPT in 60 lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [Implementing Mixtral with Neural Circuit Diagrams](https://github.com/vtabbott/Neural-Circuit-Diagrams/blob/main/mixtral.ipynb)
 
 ## <a name='Curated lists'></a>Curated lists
