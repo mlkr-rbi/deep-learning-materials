@@ -13,7 +13,7 @@ This is a curated repository of materials for deep learning.
 - [Models](#models)
 
 ## <a name='Courses'></a>Courses
-- [Introduction to Deep Learning (MIT)])(http://introtodeeplearning.com/)
+- [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
 - [Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 - [Generative AI for beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 - [Machine Learning cheatsheets (Stanford)](https://stanford.edu/~shervine/teaching/cs-229/)
