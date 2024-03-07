@@ -18,6 +18,8 @@ This is a curated repository of materials for deep learning.
 
 ## <a name='Courses'></a>Courses
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
+- [Introduction to Deep Learning (Carnegie Mellon)](http://deeplearning.cs.cmu.edu/S24/index.html)
+- [Deep Learning (Stanford)](https://cs230.stanford.edu/lecture/)
 - [Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 - [Generative AI for beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
 - Stanford Cheatsheets:
@@ -48,12 +50,16 @@ This is a curated repository of materials for deep learning.
 - Large Language Models(LLMs) on Tabular Data (2024) [arXiv](https://arxiv.org/abs/2402.17944)
 - Chain-of-Thought Reasoning Without Prompting (2024) [arXiv](https://arxiv.org/abs/2402.10200)
 - Holistic Evaluation of Language Models (2022) [arXiv](https://arxiv.org/abs/2211.09110)
+- Understanding LLMs: A Comprehensive Overview from Training to Inference (2024) [arXiv](https://arxiv.org/abs/2401.02038)
+- Large Language Models: A Survey (2024) [arXiv](https://arxiv.org/abs/2402.06196)
+- Grandmaster-Level Chess Without Search (2024) [arXiv](https://arxiv.org/abs/2402.04494)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/index.html)
 - [Interpretable Machine Learing](https://christophm.github.io/interpretable-ml-book/)
+- [Supervised Machine Learning for Science](https://ml-science-book.com/)
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
@@ -63,6 +69,8 @@ This is a curated repository of materials for deep learning.
 - BioMistral - pretrained LLM models for biomedical domain [arXiv](https://arxiv.org/pdf/2402.10373.pdf) [HuggingFace](https://huggingface.co/BioMistral/BioMistral-7B)
 - StructLM - Generalist Model for Structured Knowledge Grounding [web](https://tiger-ai-lab.github.io/StructLM/) [arXiv](https://arxiv.org/abs/2402.16671) [Github](https://github.com/TIGER-AI-Lab/StructLM) [HuggingFace](https://huggingface.co/datasets/TIGER-Lab/SKGInstruct)
 - Gemma - Open Models Based on Gemini Research and Technology [HuggingFace](https://huggingface.co/collections/google/gemma-release-65d5efbccdbb8c4202ec078b) [paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
+- Large World Model [web](https://largeworldmodel.github.io/) [Github](https://github.com/LargeWorldModel/LWM) [HuggingFace](https://huggingface.co/LargeWorldModel) [arXiv](https://arxiv.org/abs/2402.08268)
+- ChemLLM: A Chemical Large Language Model [arXiv](https://arxiv.org/abs/2402.06852) [HuggingFace](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
 
 ## <a name='Benchmarks'></a>Benchmarks
 - [Nicolas Carlini's benchmark of 100 tests for LLM's](https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html)
