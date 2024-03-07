@@ -20,8 +20,13 @@ This is a curated repository of materials for deep learning.
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
 - [Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 - [Generative AI for beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
-- Stanford Cheatsheets [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/) [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
-- Courses by Sebastian Raschka [Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html) [Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html) [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
+- Stanford Cheatsheets:
+  - [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+  - [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+- Courses by Sebastian Raschka:
+  - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html)
+  - [Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
+  - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 ## <a name='Tutorials'></a>Tutorials
@@ -45,7 +50,7 @@ This is a curated repository of materials for deep learning.
 - Holistic Evaluation of Language Models (2022) [arXiv](https://arxiv.org/abs/2211.09110)
 
 ## <a name='Books'></a>Books
-- [Understanding Deep Dearning (2023)](https://udlbook.github.io/udlbook/)
+- [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
 - [Deep Learning](https://www.deeplearningbook.org/)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/index.html)
 - [Interpretable Machine Learing](https://christophm.github.io/interpretable-ml-book/)
@@ -84,4 +89,3 @@ This is a curated repository of materials for deep learning.
 - [ChatGPT](https://chat.openai.com/)
 - [Gemini](https://gemini.google.com/)
 - [Claude](https://claude.ai/)
-- 
