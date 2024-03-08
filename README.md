@@ -15,6 +15,7 @@ This is a curated repository of materials for deep learning.
 - [Datasets](#datasets)
 - [Tools](#tools)
 - [APIs](#apis)
+- [Initiatives](#initiatives)
 
 ## <a name='Courses'></a>Courses
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
@@ -30,6 +31,7 @@ This is a curated repository of materials for deep learning.
   - [Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
   - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Foundations of Deep Learning (University of Maryland)](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
 
 ## <a name='Tutorials'></a>Tutorials
 - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
@@ -55,6 +57,7 @@ This is a curated repository of materials for deep learning.
 - Understanding LLMs: A Comprehensive Overview from Training to Inference (2024) [arXiv](https://arxiv.org/abs/2401.02038)
 - Large Language Models: A Survey (2024) [arXiv](https://arxiv.org/abs/2402.06196)
 - Grandmaster-Level Chess Without Search (2024) [arXiv](https://arxiv.org/abs/2402.04494)
+- GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection (2024) [arXiv](https://arxiv.org/abs/2403.03507) [Github](https://github.com/jiaweizzhao/galore)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
@@ -93,9 +96,15 @@ This is a curated repository of materials for deep learning.
 - Transformers.js - State-of-the-art Machine Learning for the web [HuggingFace](https://huggingface.co/docs/transformers.js/index)
 - [Tokenizer Playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
 - [Neural Networks Playground](https://playground.tensorflow.org/)
+- MelloTTS - multi-lingual text-to-speech library [HuggingFace demo](https://huggingface.co/spaces/mrfakename/MeloTTS) [Github](https://github.com/myshell-ai/MeloTTS?tab=readme-ov-file)
 
 ## <a name='APIs'></a>APIs
 - [GroqChat](https://groq.com/)
 - [ChatGPT](https://chat.openai.com/)
 - [Gemini](https://gemini.google.com/)
 - [Claude](https://claude.ai/)
+
+## <a name='Initiatives'></a>Initiatives
+- Occiglot - research collective for open-source European LLMs [web](https://occiglot.github.io/occiglot/) [HuggingFace](https://huggingface.co/collections/occiglot/occiglot-eu5-7b-v01-65dbed502a6348b052695e01)
+- Open Sora [Github](https://github.com/hpcaitech/Open-Sora)
+
