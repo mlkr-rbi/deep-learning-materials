@@ -36,10 +36,12 @@ This is a curated repository of materials for deep learning.
 - [GPT in 60 lines of NumPy](https://jaykmody.com/blog/gpt-from-scratch/)
 - [Implementing Mixtral with Neural Circuit Diagrams](https://github.com/vtabbott/Neural-Circuit-Diagrams/blob/main/mixtral.ipynb)
 - [Hello Evo: From DNA generation to protein folding](https://colab.research.google.com/github/evo-design/evo/blob/main/scripts/hello_evo.ipynb)
+- University of Amsterdam Deep Learning Tutorials [web](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) [Github](https://github.com/phlippe/uvadlc_notebooks)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
 - [Statistics and machine learning: from undergraduate to research](https://github.com/dobriban/stat-ml-edu)
+- [Awesome Graph-Related Large Language Models](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ## <a name='Papers'></a>Papers
 - Role play with large language models (2023) [Nature.com](https://www.nature.com/articles/s41586-023-06647-8) [arXiv](https://arxiv.org/pdf/2305.16367.pdf)
