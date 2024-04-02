@@ -19,7 +19,7 @@ This is a curated repository of materials for deep learning.
 - [Initiatives](#initiatives)
 - [Lectures](#lectures)
 
-## <a name='Courses'></a>Courses[Back to top](#Contents)
+## <a name='Courses'></a>Courses [Top](#contents)
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
 - [Introduction to Deep Learning (Carnegie Mellon)](http://deeplearning.cs.cmu.edu/S24/index.html)
 - [Deep Learning (Stanford)](https://cs230.stanford.edu/lecture/)
