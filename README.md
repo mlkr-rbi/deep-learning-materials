@@ -2,7 +2,7 @@
 
 This is a curated repository of materials for deep learning.
 
-# <a name='Contents'></a> Table of Contents
+# Table of Contents
 
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -19,7 +19,7 @@ This is a curated repository of materials for deep learning.
 - [Initiatives](#initiatives)
 - [Lectures](#lectures)
 
-## <a name='Courses'></a>Courses [Contents](#contents)
+## <a name='Courses'></a>Courses
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
 - [Introduction to Deep Learning (Carnegie Mellon)](http://deeplearning.cs.cmu.edu/S24/index.html)
 - [Deep Learning (Stanford)](https://cs230.stanford.edu/lecture/)
