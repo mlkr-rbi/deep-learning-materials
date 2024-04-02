@@ -62,6 +62,7 @@ This is a curated repository of materials for deep learning.
 - Grandmaster-Level Chess Without Search (2024) [arXiv](https://arxiv.org/abs/2402.04494)
 - GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection (2024) [arXiv](https://arxiv.org/abs/2403.03507) [Github](https://github.com/jiaweizzhao/galore)
 - MacGyver: Are Large Language Models Creative Problem Solvers? (2024) [arXiv](https://arxiv.org/abs/2311.09682) [Github](https://github.com/allenai/MacGyver)
+- Revisiting Unreasonable Effectiveness of Data in Deep Learning Era (2017) [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Sun_Revisiting_Unreasonable_Effectiveness_ICCV_2017_paper.pdf)
 - Understanding Deep Learning Requires Rethinking Generalization (2017) [arXiv](https://arxiv.org/abs/1611.03530)
 - Understanding Deep Learning (Still) Requires Rethinking Generalization (2021) [paper](https://dl.acm.org/doi/10.1145/3446776)
 - Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets (2022) [arXiv](https://arxiv.org/abs/2201.02177)
