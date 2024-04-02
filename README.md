@@ -34,6 +34,7 @@ This is a curated repository of materials for deep learning.
   - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Foundations of Deep Learning (University of Maryland)](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
+- [K-12 Prompt Engineering Guide](https://www.k12promptguide.com/home)
 
 ## <a name='Tutorials'></a>Tutorials
 - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
@@ -42,11 +43,13 @@ This is a curated repository of materials for deep learning.
 - [Hello Evo: From DNA generation to protein folding](https://colab.research.google.com/github/evo-design/evo/blob/main/scripts/hello_evo.ipynb)
 - University of Amsterdam Deep Learning Tutorials [web](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) [Github](https://github.com/phlippe/uvadlc_notebooks)
 - [Zero to LitGPT: Getting Started with Pretraining, Finetuning, and Using LLMs](https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md)
+- Annotated Deep Learinng Research Papers Implementations [web](https://nn.labml.ai) [Github](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
 - [Statistics and machine learning: from undergraduate to research](https://github.com/dobriban/stat-ml-edu)
 - [Awesome Graph-Related Large Language Models](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
+- [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 
 ## <a name='Papers'></a>Papers
 - Role play with large language models (2023) [Nature.com](https://www.nature.com/articles/s41586-023-06647-8) [arXiv](https://arxiv.org/pdf/2305.16367.pdf)
@@ -68,19 +71,26 @@ This is a curated repository of materials for deep learning.
 - Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets (2022) [arXiv](https://arxiv.org/abs/2201.02177)
 - Deep Double Descent: Where Bigger Models and More Data Hurt (2019) [arXiv](https://arxiv.org/abs/1912.02292)
 - Unifying Grokking and Double Descent (2023) [arXiv](https://arxiv.org/abs/2303.06173)
+- Textbooks Are All You Need (2023) [arXiv](https://arxiv.org/abs/2306.11644)
+- LoRa: Low-Rank Adaptation of Large Language Models (2021) [arXiv](https://arxiv.org/abs/2106.09685)
+- Fundamental Components of Deep Learning: A category-theoretic approach (2023) [arXiv](https://arxiv.org/abs/2403.13001)
 
 ## <a name='Articles'></a>Articles
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
 - [How do LLMs give truthful answers?](https://www.lesswrong.com/posts/ZKksgfTxuxKhDfk4m/how-do-llms-give-truthful-answers-a-discussion-of-llm-vs)
 - [Models All the Way Down](https://knowingmachines.org/models-all-the-way)
 - [Large language models can do jaw-dropping things. But nobody knows exactly why](https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/)
+- [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
+- [Will Transformers Take Over Artificial Intelligence?](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/index.html)
 - [Interpretable Machine Learing](https://christophm.github.io/interpretable-ml-book/)
 - [Supervised Machine Learning for Science](https://ml-science-book.com/)
+- [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering)
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
@@ -101,6 +111,7 @@ This is a curated repository of materials for deep learning.
 - Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research [arXiv](https://arxiv.org/pdf/2402.00159.pdf) [HuggingFace](https://huggingface.co/datasets/allenai/dolma)
 - Internet Archive Public Domain English Books [HuggingFace](https://huggingface.co/datasets/storytracer/internet_archive_books_en)
 - Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models [web](https://mm-arxiv.github.io/) [arXiv](https://arxiv.org/abs/2403.00231)
+- Cosmopedia - dataset of synthetic textbooks, blogposts, stories, posts and WikiHow articles [web](https://huggingface.co/blog/cosmopedia) [HuggingFace](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)
 
 ## <a name='Tools'></a>Tools
 - Ollama - run Llama 2, Mistral and Gemma locally [web](https://ollama.com/) [Github](https://github.com/ollama/ollama)
