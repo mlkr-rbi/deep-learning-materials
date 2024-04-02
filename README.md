@@ -8,6 +8,7 @@ This is a curated repository of materials for deep learning.
 - [Tutorials](#tutorials)
 - [Curated lists](#curated-lists)
 - [Papers](#papers)
+- [Articles](#articles)
 - [Books](#books)
 - [Reports](#reports)
 - [Models](#models)
@@ -16,6 +17,7 @@ This is a curated repository of materials for deep learning.
 - [Tools](#tools)
 - [APIs](#apis)
 - [Initiatives](#initiatives)
+- [Lectures](#lectures)
 
 ## <a name='Courses'></a>Courses
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
@@ -39,6 +41,7 @@ This is a curated repository of materials for deep learning.
 - [Implementing Mixtral with Neural Circuit Diagrams](https://github.com/vtabbott/Neural-Circuit-Diagrams/blob/main/mixtral.ipynb)
 - [Hello Evo: From DNA generation to protein folding](https://colab.research.google.com/github/evo-design/evo/blob/main/scripts/hello_evo.ipynb)
 - University of Amsterdam Deep Learning Tutorials [web](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) [Github](https://github.com/phlippe/uvadlc_notebooks)
+- [Zero to LitGPT: Getting Started with Pretraining, Finetuning, and Using LLMs](https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
@@ -58,6 +61,18 @@ This is a curated repository of materials for deep learning.
 - Large Language Models: A Survey (2024) [arXiv](https://arxiv.org/abs/2402.06196)
 - Grandmaster-Level Chess Without Search (2024) [arXiv](https://arxiv.org/abs/2402.04494)
 - GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection (2024) [arXiv](https://arxiv.org/abs/2403.03507) [Github](https://github.com/jiaweizzhao/galore)
+- MacGyver: Are Large Language Models Creative Problem Solvers? (2024) [arXiv](https://arxiv.org/abs/2311.09682) [Github](https://github.com/allenai/MacGyver)
+- Understanding Deep Learning Requires Rethinking Generalization (2017) [arXiv](https://arxiv.org/abs/1611.03530)
+- Understanding Deep Learning (Still) Requires Rethinking Generalization (2021) [paper](https://dl.acm.org/doi/10.1145/3446776)
+- Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets (2022) [arXiv](https://arxiv.org/abs/2201.02177)
+- Deep Double Descent: Where Bigger Models and More Data Hurt (2019) [arXiv](https://arxiv.org/abs/1912.02292)
+- Unifying Grokking and Double Descent (2023) [arXiv](https://arxiv.org/abs/2303.06173)
+
+## <a name='Articles'></a>Articles
+- [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
+- [How do LLMs give truthful answers?](https://www.lesswrong.com/posts/ZKksgfTxuxKhDfk4m/how-do-llms-give-truthful-answers-a-discussion-of-llm-vs)
+- [Models All the Way Down](https://knowingmachines.org/models-all-the-way)
+- [Large language models can do jaw-dropping things. But nobody knows exactly why](https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
@@ -107,4 +122,8 @@ This is a curated repository of materials for deep learning.
 ## <a name='Initiatives'></a>Initiatives
 - Occiglot - research collective for open-source European LLMs [web](https://occiglot.github.io/occiglot/) [HuggingFace](https://huggingface.co/collections/occiglot/occiglot-eu5-7b-v01-65dbed502a6348b052695e01)
 - Open Sora [Github](https://github.com/hpcaitech/Open-Sora)
+
+## <a name='Lectures'></a>Lectures
+- A little guide to building Large Language Models in 2024 [Youtube](https://www.youtube.com/watch?v=2-SPH9hIKT8&ab_channel=ThomWolf) [slides](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit#slide=id.p)
+- Intro to LLMs by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=935s&ab_channel=AndrejKarpathy) [slides](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)
 
