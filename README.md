@@ -91,6 +91,7 @@ This is a curated repository of materials for deep learning.
 - Gemma - Open Models Based on Gemini Research and Technology [HuggingFace](https://huggingface.co/collections/google/gemma-release-65d5efbccdbb8c4202ec078b) [paper](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf)
 - Large World Model [web](https://largeworldmodel.github.io/) [Github](https://github.com/LargeWorldModel/LWM) [HuggingFace](https://huggingface.co/LargeWorldModel) [arXiv](https://arxiv.org/abs/2402.08268)
 - ChemLLM: A Chemical Large Language Model [arXiv](https://arxiv.org/abs/2402.06852) [HuggingFace](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
+- BLOOM: A 176B-Parameter Open-Access Multilingual Language Model [arXiv](https://arxiv.org/abs/2211.05100) [HuggingFace](https://huggingface.co/bigscience/bloom) [web](https://bigscience.huggingface.co/blog/bloom)
 
 ## <a name='Benchmarks'></a>Benchmarks
 - [Nicolas Carlini's benchmark of 100 tests for LLM's](https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html)
