@@ -2,7 +2,7 @@
 
 This is a curated repository of materials for deep learning.
 
-# Table of Contents
+# <a name='Contents'></a> Table of Contents
 
 - [Courses](#courses)
 - [Tutorials](#tutorials)
@@ -19,7 +19,7 @@ This is a curated repository of materials for deep learning.
 - [Initiatives](#initiatives)
 - [Lectures](#lectures)
 
-## <a name='Courses'></a>Courses
+## <a name='Courses'></a>Courses[Back to top](#Contents)
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
 - [Introduction to Deep Learning (Carnegie Mellon)](http://deeplearning.cs.cmu.edu/S24/index.html)
 - [Deep Learning (Stanford)](https://cs230.stanford.edu/lecture/)
@@ -114,6 +114,7 @@ This is a curated repository of materials for deep learning.
 - [Tokenizer Playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
 - [Neural Networks Playground](https://playground.tensorflow.org/)
 - MelloTTS - multi-lingual text-to-speech library [HuggingFace demo](https://huggingface.co/spaces/mrfakename/MeloTTS) [Github](https://github.com/myshell-ai/MeloTTS?tab=readme-ov-file)
+- Finetune Mistral, Gemma, Llama 2-5x faster with 70% less memory! [Github](https://github.com/unslothai/unsloth)
 
 ## <a name='APIs'></a>APIs
 - [GroqChat](https://groq.com/)
