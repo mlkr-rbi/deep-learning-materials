@@ -44,6 +44,8 @@ This is a curated repository of materials for deep learning.
 - University of Amsterdam Deep Learning Tutorials [web](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html) [Github](https://github.com/phlippe/uvadlc_notebooks)
 - [Zero to LitGPT: Getting Started with Pretraining, Finetuning, and Using LLMs](https://github.com/Lightning-AI/litgpt/blob/main/tutorials/0_to_litgpt.md)
 - Annotated Deep Learinng Research Papers Implementations [web](https://nn.labml.ai) [Github](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+- [llamafile is the new best way to run a LLM on your own computer](https://simonwillison.net/2023/Nov/29/llamafile/)
+- [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
