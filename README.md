@@ -142,5 +142,6 @@ This is a curated repository of materials for deep learning.
 ## <a name='Lectures'></a>Lectures
 - A little guide to building Large Language Models in 2024 [Youtube](https://www.youtube.com/watch?v=2-SPH9hIKT8&ab_channel=ThomWolf) [slides](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit#slide=id.p)
 - Intro to LLMs by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=935s&ab_channel=AndrejKarpathy) [slides](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)
-- The spelled-out intro to neural networks and backpropagation: building micrograd [Youtube](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- The spelled-out intro to neural networks and backpropagation: building micrograd by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- Attention in transformers, visually explained (Chapter 6, Deep Learning) [Youtube](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 
