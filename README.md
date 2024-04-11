@@ -128,6 +128,7 @@ This is a curated repository of materials for deep learning.
 - [Neural Networks Playground](https://playground.tensorflow.org/)
 - MelloTTS - multi-lingual text-to-speech library [HuggingFace demo](https://huggingface.co/spaces/mrfakename/MeloTTS) [Github](https://github.com/myshell-ai/MeloTTS?tab=readme-ov-file)
 - Finetune Mistral, Gemma, Llama 2-5x faster with 70% less memory! [Github](https://github.com/unslothai/unsloth)
+- llm.c - LLM (GPT-2) training in simple, pure C/CUDA [Github](https://github.com/karpathy/llm.c/tree/master)
 
 ## <a name='APIs'></a>APIs
 - [GroqChat](https://groq.com/)
