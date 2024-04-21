@@ -84,6 +84,8 @@ This is a curated repository of materials for deep learning.
 - [Large language models can do jaw-dropping things. But nobody knows exactly why](https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/)
 - [How Chain-of-Thought Reasoning Helps Neural Networks Compute](https://www.quantamagazine.org/how-chain-of-thought-reasoning-helps-neural-networks-compute-20240321/)
 - [Will Transformers Take Over Artificial Intelligence?](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/)
+- [The Hidden Convex Optimization Landscape of Two-Layer ReLU Networks](https://iclr-blogposts.github.io/2024/blog/hidden-convex-relu/)
+- [Building Diffusion Model's theory from ground up](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
