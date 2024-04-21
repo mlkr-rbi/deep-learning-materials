@@ -76,6 +76,7 @@ This is a curated repository of materials for deep learning.
 - Textbooks Are All You Need (2023) [arXiv](https://arxiv.org/abs/2306.11644)
 - LoRa: Low-Rank Adaptation of Large Language Models (2021) [arXiv](https://arxiv.org/abs/2106.09685)
 - Fundamental Components of Deep Learning: A category-theoretic approach (2023) [arXiv](https://arxiv.org/abs/2403.13001)
+- Compression Represents Intelligence Linearly [arXiv](https://arxiv.org/abs/2404.09937) [HuggingFace](https://huggingface.co/papers/2404.09937)
 
 ## <a name='Articles'></a>Articles
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
@@ -86,6 +87,7 @@ This is a curated repository of materials for deep learning.
 - [Will Transformers Take Over Artificial Intelligence?](https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/)
 - [The Hidden Convex Optimization Landscape of Two-Layer ReLU Networks](https://iclr-blogposts.github.io/2024/blog/hidden-convex-relu/)
 - [Building Diffusion Model's theory from ground up](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
+- [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
@@ -107,6 +109,7 @@ This is a curated repository of materials for deep learning.
 - Large World Model [web](https://largeworldmodel.github.io/) [Github](https://github.com/LargeWorldModel/LWM) [HuggingFace](https://huggingface.co/LargeWorldModel) [arXiv](https://arxiv.org/abs/2402.08268)
 - ChemLLM: A Chemical Large Language Model [arXiv](https://arxiv.org/abs/2402.06852) [HuggingFace](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat)
 - BLOOM: A 176B-Parameter Open-Access Multilingual Language Model [arXiv](https://arxiv.org/abs/2211.05100) [HuggingFace](https://huggingface.co/bigscience/bloom) [web](https://bigscience.huggingface.co/blog/bloom)
+- Llama 3 [web](https://ai.meta.com/blog/meta-llama-3/) [Github](https://github.com/meta-llama/llama3/tree/main)
 
 ## <a name='Benchmarks'></a>Benchmarks
 - [Nicolas Carlini's benchmark of 100 tests for LLM's](https://nicholas.carlini.com/writing/2024/my-benchmark-for-large-language-models.html)
@@ -116,6 +119,7 @@ This is a curated repository of materials for deep learning.
 - Internet Archive Public Domain English Books [HuggingFace](https://huggingface.co/datasets/storytracer/internet_archive_books_en)
 - Multimodal ArXiv: A Dataset for Improving Scientific Comprehension of Large Vision-Language Models [web](https://mm-arxiv.github.io/) [arXiv](https://arxiv.org/abs/2403.00231)
 - Cosmopedia - dataset of synthetic textbooks, blogposts, stories, posts and WikiHow articles [web](https://huggingface.co/blog/cosmopedia) [HuggingFace](https://huggingface.co/datasets/HuggingFaceTB/cosmopedia)
+- FineWeb - 15T tokens of deduplicated and English texts from CommonCrawl [HuggingFace](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 
 ## <a name='Tools'></a>Tools
 - Ollama - run Llama 2, Mistral and Gemma locally [web](https://ollama.com/) [Github](https://github.com/ollama/ollama)
@@ -131,6 +135,7 @@ This is a curated repository of materials for deep learning.
 - MelloTTS - multi-lingual text-to-speech library [HuggingFace demo](https://huggingface.co/spaces/mrfakename/MeloTTS) [Github](https://github.com/myshell-ai/MeloTTS?tab=readme-ov-file)
 - Finetune Mistral, Gemma, Llama 2-5x faster with 70% less memory! [Github](https://github.com/unslothai/unsloth)
 - llm.c - LLM (GPT-2) training in simple, pure C/CUDA [Github](https://github.com/karpathy/llm.c/tree/master)
+- LLM transparency tool [Github](https://github.com/facebookresearch/llm-transparency-tool)
 
 ## <a name='APIs'></a>APIs
 - [GroqChat](https://groq.com/)
@@ -147,4 +152,5 @@ This is a curated repository of materials for deep learning.
 - Intro to LLMs by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=935s&ab_channel=AndrejKarpathy) [slides](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)
 - The spelled-out intro to neural networks and backpropagation: building micrograd by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - Attention in transformers, visually explained (Chapter 6, Deep Learning) [Youtube](https://www.youtube.com/watch?v=eMlx5fFNoYc)
+- Intuition Behind Self-Attention Mechanism in Transformer Networks [Youtube](https://www.youtube.com/watch?v=g2BRIuln4uc&t=2s&ab_channel=Ark)
 
