@@ -97,6 +97,7 @@ This is a curated repository of materials for deep learning.
 - [Interpretable Machine Learing](https://christophm.github.io/interpretable-ml-book/)
 - [Supervised Machine Learning for Science](https://ml-science-book.com/)
 - [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering)
+- [Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
