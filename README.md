@@ -46,6 +46,9 @@ This is a curated repository of materials for deep learning.
 - Annotated Deep Learinng Research Papers Implementations [web](https://nn.labml.ai) [Github](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 - [llamafile is the new best way to run a LLM on your own computer](https://simonwillison.net/2023/Nov/29/llamafile/)
 - [Bash One-Liners for LLMs](https://justine.lol/oneliners/)
+- [A primer on algorithmic differentiation](https://gdalle.github.io/AutodiffTutorial/)
+- [Creating a Transformer From Scratch - Part One: The Attention Mechanism](https://benjaminwarner.dev/2023/07/01/attention-mechanism)
+- [Creating a Transformer From Scratch - Part Two: The Rest of the Transformer](https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
@@ -77,6 +80,7 @@ This is a curated repository of materials for deep learning.
 - LoRa: Low-Rank Adaptation of Large Language Models (2021) [arXiv](https://arxiv.org/abs/2106.09685)
 - Fundamental Components of Deep Learning: A category-theoretic approach (2023) [arXiv](https://arxiv.org/abs/2403.13001)
 - Compression Represents Intelligence Linearly [arXiv](https://arxiv.org/abs/2404.09937) [HuggingFace](https://huggingface.co/papers/2404.09937)
+- Rules of Machine Learning - Best Practices for ML Engineering [web](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
 ## <a name='Articles'></a>Articles
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
@@ -88,6 +92,8 @@ This is a curated repository of materials for deep learning.
 - [The Hidden Convex Optimization Landscape of Two-Layer ReLU Networks](https://iclr-blogposts.github.io/2024/blog/hidden-convex-relu/)
 - [Building Diffusion Model's theory from ground up](https://iclr-blogposts.github.io/2024/blog/diffusion-theory-from-scratch/)
 - [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
+- [The "it" in AI models is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
+- [Build what you need and use what you build - An approach to impactful science](https://perceiving-systems.blog/en/post/build-what-you-need-and-use-what-you-build)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
@@ -98,6 +104,7 @@ This is a curated repository of materials for deep learning.
 - [Supervised Machine Learning for Science](https://ml-science-book.com/)
 - [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering)
 - [Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
+- [Geometric Deep Learning](https://geometricdeeplearning.com/book/)
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
@@ -137,6 +144,8 @@ This is a curated repository of materials for deep learning.
 - Finetune Mistral, Gemma, Llama 2-5x faster with 70% less memory! [Github](https://github.com/unslothai/unsloth)
 - llm.c - LLM (GPT-2) training in simple, pure C/CUDA [Github](https://github.com/karpathy/llm.c/tree/master)
 - LLM transparency tool [Github](https://github.com/facebookresearch/llm-transparency-tool)
+- CoreNet - Apple's library for deep learning [Github](https://github.com/apple/corenet)
+- Cohere toolkit - quickly deploy RAG applications [Github](https://github.com/cohere-ai/cohere-toolkit/)
 
 ## <a name='APIs'></a>APIs
 - [GroqChat](https://groq.com/)
