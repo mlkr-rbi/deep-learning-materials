@@ -49,6 +49,9 @@ This is a curated repository of materials for deep learning.
 - [A primer on algorithmic differentiation](https://gdalle.github.io/AutodiffTutorial/)
 - [Creating a Transformer From Scratch - Part One: The Attention Mechanism](https://benjaminwarner.dev/2023/07/01/attention-mechanism)
 - [Creating a Transformer From Scratch - Part Two: The Rest of the Transformer](https://benjaminwarner.dev/2023/07/28/rest-of-the-transformer)
+- [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
+- [Defusing Diffusion Models](https://perceptron.blog/defusing-diffusion/)
+- [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
@@ -81,6 +84,8 @@ This is a curated repository of materials for deep learning.
 - Fundamental Components of Deep Learning: A category-theoretic approach (2023) [arXiv](https://arxiv.org/abs/2403.13001)
 - Compression Represents Intelligence Linearly [arXiv](https://arxiv.org/abs/2404.09937) [HuggingFace](https://huggingface.co/papers/2404.09937)
 - Rules of Machine Learning - Best Practices for ML Engineering [web](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- General Intelligence Requires Rethinking Exploration (2024) [arXiv](https://arxiv.org/abs/2211.07819)
+- Testing theory of mind in large language models and humans (2024) [paper](https://www.nature.com/articles/s41562-024-01882-z)
 
 ## <a name='Articles'></a>Articles
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
@@ -105,6 +110,8 @@ This is a curated repository of materials for deep learning.
 - [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering)
 - [Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf)
 - [Geometric Deep Learning](https://geometricdeeplearning.com/book/)
+- [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350)
+- [Alice's adventures in differentiable wonderland](https://www.sscardapane.it/alice-book)
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
