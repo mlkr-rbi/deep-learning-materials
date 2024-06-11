@@ -18,7 +18,8 @@ This is a curated repository of materials for deep learning.
 - [APIs](#apis)
 - [Initiatives](#initiatives)
 - [Lectures](#lectures)
-
+- [Implementations](#implementations)
+  
 ## <a name='Courses'></a>Courses
 - [Introduction to Deep Learning (MIT)](http://introtodeeplearning.com/)
 - [Introduction to Deep Learning (Carnegie Mellon)](http://deeplearning.cs.cmu.edu/S24/index.html)
@@ -170,4 +171,8 @@ This is a curated repository of materials for deep learning.
 - The spelled-out intro to neural networks and backpropagation: building micrograd by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - Attention in transformers, visually explained (Chapter 6, Deep Learning) [Youtube](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 - Intuition Behind Self-Attention Mechanism in Transformer Networks [Youtube](https://www.youtube.com/watch?v=g2BRIuln4uc&t=2s&ab_channel=Ark)
+
+  ## <a name='Implementations'></a>Implementations
+- Pytorch implementations of various papers [github](https://github.com/lucidrains?tab=repositories)
+
 
