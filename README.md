@@ -53,12 +53,16 @@ This is a curated repository of materials for deep learning.
 - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
 - [Defusing Diffusion Models](https://perceptron.blog/defusing-diffusion/)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
+- build nanoGPT by Andrey Karpathy [Github](https://github.com/karpathy/build-nanogpt) [Youtube](https://www.youtube.com/watch?v=l8pRSuU81PU)
+- Let's build GPT from scratch by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- AI by hand [Substack](https://aibyhand.substack.com/) [Twitter](https://x.com/ProfTomYeh)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
 - [Statistics and machine learning: from undergraduate to research](https://github.com/dobriban/stat-ml-edu)
 - [Awesome Graph-Related Large Language Models](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
+- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## <a name='Papers'></a>Papers
 - Role play with large language models (2023) [Nature.com](https://www.nature.com/articles/s41586-023-06647-8) [arXiv](https://arxiv.org/pdf/2305.16367.pdf)
@@ -100,6 +104,8 @@ This is a curated repository of materials for deep learning.
 - [Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 - [The "it" in AI models is the dataset](https://nonint.com/2023/06/10/the-it-in-ai-models-is-the-dataset/)
 - [Build what you need and use what you build - An approach to impactful science](https://perceiving-systems.blog/en/post/build-what-you-need-and-use-what-you-build)
+- [I. From GPT-4 to AGI: Counting the OOMs](https://situational-awareness.ai/from-gpt-4-to-agi/)
+- [The Roadmap of Mathematics for Machine Learning](https://tivadardanka.com/blog/roadmap-of-mathematics-for-machine-learning)
 
 ## <a name='Books'></a>Books
 - [Understanding Deep Learning (2023)](https://udlbook.github.io/udlbook/)
@@ -116,6 +122,8 @@ This is a curated repository of materials for deep learning.
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
+- [Science in the age of AI (2024)](https://royalsociety.org/-/media/policy/projects/science-in-the-age-of-ai/science-in-the-age-of-ai-report.pdf)
+- [Thousands of AI authors on the future AI (2024)](https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf)
 
 ## <a name='Models'></a>Models
 - Moondream - tiny vision language model [web](https://moondream.ai/) [Github](https://github.com/vikhyat/moondream)
@@ -154,6 +162,8 @@ This is a curated repository of materials for deep learning.
 - LLM transparency tool [Github](https://github.com/facebookresearch/llm-transparency-tool)
 - CoreNet - Apple's library for deep learning [Github](https://github.com/apple/corenet)
 - Cohere toolkit - quickly deploy RAG applications [Github](https://github.com/cohere-ai/cohere-toolkit/)
+- wllama - WebAssembly bindings for llama.cpp [Github](https://github.com/ngxson/wllama)
+- elia - LLM in terminal [Github](https://github.com/darrenburns/elia)
 
 ## <a name='APIs'></a>APIs
 - [GroqChat](https://groq.com/)
