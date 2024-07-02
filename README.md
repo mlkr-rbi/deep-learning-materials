@@ -36,6 +36,7 @@ This is a curated repository of materials for deep learning.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [Foundations of Deep Learning (University of Maryland)](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
 - [K-12 Prompt Engineering Guide](https://www.k12promptguide.com/home)
+- [Machine Learning L Marti, N Sanchez-Pi](https://github.com/lmarti/machine-learning)
 
 ## <a name='Tutorials'></a>Tutorials
 - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
