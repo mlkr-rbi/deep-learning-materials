@@ -37,6 +37,7 @@ This is a curated repository of materials for deep learning.
 - [Foundations of Deep Learning (University of Maryland)](http://www.cs.umd.edu/class/fall2020/cmsc828W/)
 - [K-12 Prompt Engineering Guide](https://www.k12promptguide.com/home)
 - [Machine Learning L Marti, N Sanchez-Pi](https://github.com/lmarti/machine-learning)
+- [Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 
 ## <a name='Tutorials'></a>Tutorials
 - [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
@@ -57,6 +58,9 @@ This is a curated repository of materials for deep learning.
 - build nanoGPT by Andrey Karpathy [Github](https://github.com/karpathy/build-nanogpt) [Youtube](https://www.youtube.com/watch?v=l8pRSuU81PU)
 - Let's build GPT from scratch by Andrey Karpathy [Youtube](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - AI by hand [Substack](https://aibyhand.substack.com/) [Twitter](https://x.com/ProfTomYeh)
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)
+- [CNN from Scratch with pure Mathematical Intuition](https://lunar-joke-35b.notion.site/CNN-from-Scratch-with-pure-Mathematical-Intuition-a201ef0ca1314058a1707a3ae260981e)
+- [Machine Learning from Scratch](https://github.com/DorsaRoh/Machine-Learning?tab=readme-ov-file)
 
 ## <a name='Curated lists'></a>Curated lists
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch/)
@@ -64,6 +68,7 @@ This is a curated repository of materials for deep learning.
 - [Awesome Graph-Related Large Language Models](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [Awesome Interpretability in Large Language Models](https://github.com/ruizheliUOA/Awesome-Interpretability-in-Large-Language-Models)
 
 ## <a name='Papers'></a>Papers
 - Role play with large language models (2023) [Nature.com](https://www.nature.com/articles/s41586-023-06647-8) [arXiv](https://arxiv.org/pdf/2305.16367.pdf)
@@ -92,6 +97,8 @@ This is a curated repository of materials for deep learning.
 - Rules of Machine Learning - Best Practices for ML Engineering [web](https://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - General Intelligence Requires Rethinking Exploration (2024) [arXiv](https://arxiv.org/abs/2211.07819)
 - Testing theory of mind in large language models and humans (2024) [paper](https://www.nature.com/articles/s41562-024-01882-z)
+- Diffusion Models Are Real-Time Game Engines [web](https://gamengen.github.io/)
+- Compact Language Models via Pruning and Knowledge Distillation [paper](https://www.openread.academy/en/paper/reading?corpusId=505227786)
 
 ## <a name='Articles'></a>Articles
 - [RLHF: Reinforcement Learning from Human Feedback](https://huyenchip.com/2023/05/02/rlhf.html)
@@ -120,6 +127,11 @@ This is a curated repository of materials for deep learning.
 - [Geometric Deep Learning](https://geometricdeeplearning.com/book/)
 - [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350)
 - [Alice's adventures in differentiable wonderland](https://www.sscardapane.it/alice-book)
+- [The Elements of Differentiable Programming](https://arxiv.org/pdf/2403.14606)
+- [Modeling Mindsets](https://christophmolnar.com/books/modeling-mindsets/)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [Machine Learning - The Basics](https://alexjungaalto.github.io/MLBasicsBook.pdf)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
@@ -165,6 +177,7 @@ This is a curated repository of materials for deep learning.
 - Cohere toolkit - quickly deploy RAG applications [Github](https://github.com/cohere-ai/cohere-toolkit/)
 - wllama - WebAssembly bindings for llama.cpp [Github](https://github.com/ngxson/wllama)
 - elia - LLM in terminal [Github](https://github.com/darrenburns/elia)
+- MiniTorch [Github](https://minitorch.github.io/)
 
 ## <a name='APIs'></a>APIs
 - [GroqChat](https://groq.com/)
@@ -183,7 +196,7 @@ This is a curated repository of materials for deep learning.
 - Attention in transformers, visually explained (Chapter 6, Deep Learning) [Youtube](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 - Intuition Behind Self-Attention Mechanism in Transformer Networks [Youtube](https://www.youtube.com/watch?v=g2BRIuln4uc&t=2s&ab_channel=Ark)
 
-  ## <a name='Implementations'></a>Implementations
+## <a name='Implementations'></a>Implementations
 - Pytorch implementations of various papers [github](https://github.com/lucidrains?tab=repositories)
 
 
