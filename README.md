@@ -132,6 +132,9 @@ This is a curated repository of materials for deep learning.
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Machine Learning - The Basics](https://alexjungaalto.github.io/MLBasicsBook.pdf)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/)
+- [Reinforcement Learning from Human Feedback Book](https://rlhfbook.com/)
+- [Foundations of Large Language Models](https://arxiv.org/pdf/2501.09223)
+- [The Big Book of Large Language Models](https://book.theaiedge.io/)
 
 ## <a name='Reports'></a>Reports
 - [The State of Competitive Machine Learning (2023)](https://mlcontests.com/state-of-competitive-machine-learning-2023/?es_id=4476a44c3d#competitive-ml-landscape)
